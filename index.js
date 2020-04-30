@@ -6,4 +6,10 @@ function add(numbers) {
   }
   return result;
 }
-module.exports = { add };
+function num(Numbers) {
+  let Result = 1;
+  for (let num of Numbers) {
+    Result = Result * num;
+  }
+}
+module.exports = { add, num };

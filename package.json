@@ -1,11 +1,12 @@
 {
-  "name": "sum",
+  "name": "num",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Nigorohio10 <2561maruto@gmail.com>",
+  "license": "ISC",
+  "repository": "git@github.com:Nigorohio10/intro-curriculum-3004.git"
 }
